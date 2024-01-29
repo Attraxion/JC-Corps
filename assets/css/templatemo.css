@@ -149,11 +149,7 @@ body, ul, li, p, a, label, input, div {
   transition: .5s;
 }
 #tempaltemo_footer .border-light { border-color: #2d343f !important;}
-/*
-// Extra small devices (portrait phones, less than 576px)
-// No media query since this is the default in Bootstrap
-*/
-/* Small devices (landscape phones, 576px and up)*/
+
 .product-wap .h3, .product-wap li, .product-wap i, .product-wap p {
   font-size: 12px !important;
 }
@@ -166,12 +162,12 @@ body, ul, li, p, a, label, input, div {
   .tempaltemo-carousel .h1 { font-size: 1em !important;}
 }
 
-/*// Medium devices (tablets, 768px and up)*/
+
 @media (min-width: 768px) {
   #templatemo_main_nav .navbar-nav {max-width: 450px;}
  }
 
-/* Large devices (desktops, 992px and up)*/
+
 @media (min-width: 992px) {
   #templatemo_main_nav .navbar-nav {max-width: 550px;}
   #template-mo-zay-hero-carousel .carousel-item {min-height: 30rem !important;}
@@ -182,7 +178,6 @@ body, ul, li, p, a, label, input, div {
   }
 }
 
-/* Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {}
  .logo-img {
         width: 100px;
